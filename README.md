@@ -34,10 +34,10 @@ Data used in this project:
 
 ## Data Modelling
 
-Entity Relationship model
-![](E-R_cardinality.png)
+No modelling is required since we just need tables for analysis
 
-## Data Analysis and Visualizations
+## Analysis and Visualizations
+
 
 
 

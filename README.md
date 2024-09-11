@@ -30,7 +30,6 @@ Data used in this project:
 
 [Md_queue_related_crime.csv](https://github.com/lisogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_queue_related_crime.csv)
 
-## Data Transformation/ Cleaning
 
 ## Data Modelling
 
@@ -38,8 +37,7 @@ No modelling is required since we just need tables for analysis
 
 ## Analysis and Visualizations
 
-
-
+![Water Source Distribution Across Maji Ndogo](water_source_distribution.png)
 
 
 

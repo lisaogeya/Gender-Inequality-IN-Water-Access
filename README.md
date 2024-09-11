@@ -1,4 +1,4 @@
-# Gender-Inequality-IN-Access-to-Water
+# Gender-Disparity-IN-Access-to-Water
 
 ![](men_women_children_fetching_water.png)
 

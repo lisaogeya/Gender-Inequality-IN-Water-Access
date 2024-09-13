@@ -56,6 +56,17 @@ Population Distribution                  |                    Water-Source Distr
 
 **Queue Composition**
 
-![]()
+![](queue_composition.png)
+
+**Insights**
+
+- From the queue times per day bar chart we can see that Saturdays have very long queues 😟.
+- According to the queue times per hour chart, during the week, people typically queue either early in the morning or late in the afternoon,  before or after work.
+- On weekends, people tend to queue more consistently throughout the day.
+- If people have to queue on a Saturday, 11 AM to 18:00 AM has 15% shorter queues.
+- In the clustered bar visual, women queue for water significantly more than men, but the gap between men and women noticeably decreases over the weekend.
+- In the scatter plot ,the queue times don't increase much past 3000 because people see long queues and go look for water in other places.
+
+
 
   

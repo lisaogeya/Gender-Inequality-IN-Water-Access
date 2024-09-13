@@ -4,8 +4,7 @@
 
 ## Introduction
 
-This is a Power Bi project on the gender dynamics in water collection of an imaginary country called **Maji Ndogo**.
-The project aims to analyze and derrive insights to 
+This Power BI visualization explores gender parity in access to water and the challenges of water collection in the fictional state of Maji Ndogo. In Maji Ndogo, water collection is a daily necessity, with most residents relying on various water sources early in the morning and late in the evening. Unfortunately, these times coincide with increased vulnerability to crimes, especially for women, who often bear the burden of water collection. This project aims to highlight the disparities between men and women in water access, while shedding light on the risks and challenges they face. By analyzing gender-specific data, this visualization seeks to inform better decision-making and encourage solutions for safer, more equitable access to water.
 
 **_Disclaimer_**:_ All datasets and reports do not represent any company, institutions or country but just a fictional dataset to demonstrate capabilities of power BI_
 
@@ -66,6 +65,8 @@ Population Distribution                  |                    Water-Source Distr
 - If people have to queue on a Saturday, 11 AM to 18:00 AM has 15% shorter queues.
 - In the clustered bar visual, women queue for water significantly more than men, but the gap between men and women noticeably decreases over the weekend.
 - In the scatter plot ,the queue times don't increase much past 3000 because people see long queues and go look for water in other places.
+
+
 
 
 

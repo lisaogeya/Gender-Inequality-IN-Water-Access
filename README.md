@@ -39,10 +39,9 @@ No modelling is required since we just need tables for analysis
 
 Population Distribution                  |                    Water-Source Distribution
 :--------------------------------------: | :------------------------------------:       
-![]()                                               |      ![]()
+![](population_ditribution.png)         |      ![](water_distribution.png)
 
 
-![Water Source Distribution Across Maji Ndogo](water_source_distribution.png)
 
 - Majority of the population lives in the Rural areas of Maji Ndogo.
 - Among the various water sources, shared taps are the most commonly used while rivers are the least prferred.

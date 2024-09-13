@@ -37,6 +37,11 @@ No modelling is required since we just need tables for analysis
 
 ## Analysis and Visualizations
 
+Population Distribution                  |                    Water-Source Distribution
+:--------------------------------------: | :------------------------------------:       
+![]()                                               |      ![]()
+
+
 ![Water Source Distribution Across Maji Ndogo](water_source_distribution.png)
 
 - Majority of the population lives in the Rural areas of Maji Ndogo.

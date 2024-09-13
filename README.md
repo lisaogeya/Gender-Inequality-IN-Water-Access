@@ -48,12 +48,14 @@ Population Distribution                  |                    Water-Source Distr
 - Among the various water sources, shared taps are the most commonly used while rivers are the least prferred.
 
 
-Water-Source Distribution by Province
+**Water-Source Distribution by Province**
 
 ![](province_1.png)
 **_Insights_**
 - Amanzi Province is our top priority due to the high number of broken taps in residential areas.
 
-Queue Composition
+**Queue Composition**
+
+![]()
 
   

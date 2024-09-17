@@ -28,7 +28,7 @@ Data used in this project:
 
 [Md_summary.csv](https://github.com/lisaogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_summary.csv)
 
-[Md_queue_related_crime.csv](https://github.com/lisogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_queue_related_crime.csv)
+[Md_queue_related_crime.csv](https://github.com/lisaogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_queue_related_crime.csv)
 
 
 ## Data Modelling

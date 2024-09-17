@@ -9,6 +9,7 @@ This Power BI visualization explores gender parity in access to water and the ch
 **_Disclaimer_**:_ All datasets and reports do not represent any company, institutions or country but just a fictional dataset to demonstrate capabilities of power BI
 
 
+
 ## Problem Statement
 1. How are water sources distributed across Maji Ndogo?
 2. Which province made the most progress towards gender equality in regard to access to water?
@@ -35,6 +36,7 @@ Data used in this project:
 No modelling is required since we just need tables for analysis
 
 ## Analysis and Visualizations
+**VISUALIZING MAJI NDOGO'S PAST**
 
 
 Population Distribution                  |                    Water-Source Distribution

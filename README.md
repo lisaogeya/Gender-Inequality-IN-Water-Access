@@ -26,7 +26,7 @@ This Power BI visualization explores gender parity in access to water and the ch
 Downloaded the csv files from ALX Explore AI Course and extracted it into power bi for cleaning, analysis and visualization.
 Data used in this project:
 
-[Md_summary.csv](https://github.com/lisogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_summary.csv)
+[Md_summary.csv](https://github.com/lisaogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_summary.csv)
 
 [Md_queue_related_crime.csv](https://github.com/lisogeya/Gender-Inequality-IN-Water-Access/blob/main/Md_queue_related_crime.csv)
 

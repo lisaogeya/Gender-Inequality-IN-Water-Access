@@ -68,6 +68,9 @@ Population Distribution                  |                    Water-Source Distr
 - In the clustered bar visual, women queue for water significantly more than men, but the gap between men and women noticeably decreases over the weekend.
 - In the scatter plot ,the queue times don't increase much past 3000 because people see long queues and go look for water in other places.
 
+**Crimes against residents of Maji Ndogo**
+
+
 
 
 

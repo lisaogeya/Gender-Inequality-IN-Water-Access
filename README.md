@@ -69,7 +69,7 @@ Population Distribution                  |                    Water-Source Distr
 - In the scatter plot ,the queue times don't increase much past 3000 because people see long queues and go look for water in other places.
 
 **Crimes against residents of Maji Ndogo**
-
+![](crime_related_data.png)
 
 
 

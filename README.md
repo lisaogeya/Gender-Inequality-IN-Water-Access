@@ -71,6 +71,13 @@ Population Distribution                  |                    Water-Source Distr
 **Crimes against residents of Maji Ndogo**
 ![](crime_related_dta.png)
 
+**Insights**
+From the visualization above we idenitfy the following trends:
+- As water collectors, women are twice as likely to be a victim of crime than men
+- Woman are most likely to be victims of harrasment followed by sexual assault.
+- Crime spikes over weekends and almost twice as many crimes are committed early in the mornings or at night with women facing the greatest threat.
+- Kilimani province has the highest number of crimes against women while Amanzi has the lowest.
+
 
 
 

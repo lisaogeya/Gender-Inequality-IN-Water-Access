@@ -1,6 +1,6 @@
 # Visualizing Maji Ndogo's Past
 
-![](men_women_children_fetching_water.png)
+![](queues_mn.webp)
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Gender-Disparity-IN-Access-to-Water
+# Visualizing Maji Ndogo's Past
 
 ![](men_women_children_fetching_water.png)
 
